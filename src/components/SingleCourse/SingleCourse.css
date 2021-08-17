@@ -1,0 +1,35 @@
+  .star-icon,.rating{
+    color:#EB8A2F;
+    font-weight:bold;
+  }
+  .student-course-detail{
+    margin: 5px;
+    color:gray;
+  }
+  .enroll{
+    float: inline-end;
+    width: 50%;
+    height: 50px;
+    margin: auto;
+    border-radius: 25px;
+    background-color: #EB8A2F;
+  }
+  .price{
+    color:#EB8A2F;
+    text-align: left;
+    /* font-weight:bold; */
+  }
+  .price-discount{
+    font-size: 2em;
+  }
+  .price-original{
+    margin-left: 15px;
+    text-decoration: line-through;
+    font-weight: lighter;
+    color: white
+  }
+
+  
+  
+  
+  

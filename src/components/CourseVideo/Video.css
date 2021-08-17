@@ -1,0 +1,38 @@
+  .video-container {
+    height: 250px;
+    display: flex;
+    background-color: #192229
+  }
+  
+  @media only screen and (min-width: 400px) {
+    .video-container {
+      height: 500px
+    }
+  }
+  
+  @media only screen and (min-width: 600px) {
+    .video-container {
+      height: 500px
+    }
+  }
+  
+  .video-container :first-child {
+    margin-left: auto;
+    width: 100%;
+    height: inherit;
+    margin-right: auto
+  }
+  .mfp-iframe-holder .mfp-content {
+    max-width: 1110px
+  }
+
+  @media (min-width: 768px) {
+    .map.map-height-two iframe {
+      height: 551px
+    }
+  }
+
+  .map iframe {
+    width: 100%;
+    height: 400px
+  }
